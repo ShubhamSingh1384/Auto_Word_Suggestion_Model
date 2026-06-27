@@ -1,3 +1,4 @@
+python-3.11
 streamlit
-tensorflow
+tensorflow==2.19.0
 numpy
